@@ -1,7 +1,7 @@
 import pygame
 import random
 import math
-from pygame import mixer
+
 pygame.init()
 screen_dimensions = 1000, 629
 display = pygame.display.set_mode((screen_dimensions))
