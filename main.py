@@ -11,7 +11,7 @@ Background =  pygame.image.load("composition-with-tombstones-hill.jpg")
 
 # Title and Game Logo
 Zombie_icon = "icons8-zombie-100.png"
-pygame.display.set_caption("Zombie Invasion!!")
+pygame.display.set_caption("Zombie Invaders!!")
 icon = pygame.image.load(Zombie_icon)
 pygame.display.set_icon(icon)
 
