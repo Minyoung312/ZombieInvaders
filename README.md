@@ -1,5 +1,5 @@
 # ZombieInvaders
-Welcome to my first project. The objective of this game is to get rid of as many zombies by throwing your axe, before they reach the end (your side). To throw your axe press the Space button, and use the arrows to move the character. These are the links to where I downloaded my images: 
+Welcome to my first project. The objective of this game is to get rid of as many zombies by hitting them with your axe, before they reach the end (your side). To throw your axe press the Space button, and use the arrows to move the character. These are the links to where I downloaded my images: 
 
 <a target="_blank" href="https://icons8.kr">lcons8</a>에 의한 <a target="_blank" href="https://icons8.kr/icon/efW10Mdj2uRb/fat-cop">Fat Cop</a> 아이콘
 
