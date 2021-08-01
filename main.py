@@ -149,11 +149,10 @@ while action:
    # Zombie Movements
    for i in range(zombie_number):
        if zombieX[i] < 10:
-           for j in range(zombie_number):
-
+           
                game_over(300,300)
                axe_state = "Out"
-           break
+               break
 
 
 
