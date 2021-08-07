@@ -164,7 +164,7 @@ while action:
            zombieY_movements[i] = 0.6
            zombieX[i] += zombieX_movements[i]
        elif zombieY[i] >= 629:
-           zombieY_movements[i] = -0.6  # 700-48
+           zombieY_movements[i] = -0.6  
            zombieX[i] += zombieX_movements[i]
 
 
