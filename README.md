@@ -4,6 +4,7 @@ Welcome to my first Pygame. The objective of this game is to get rid of as many 
 
 
 
+<a target="_blank" href="https://icons8.com/icon/123580/fat-cop">Fat Cop</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <a target="_blank" href="https://icons8.com/icon/DnXieNb84YFJ/zombie">Zombie</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
