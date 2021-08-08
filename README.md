@@ -1,7 +1,7 @@
 # Zombie Invaders
 Welcome to my first Pygame. The objective of this game is to get rid of as many zombies by hitting them with your ax before they reach the end. To throw your ax press the Space button, and use the arrows to move the character. These are the links to where I downloaded my images: 
 
-![icons8-fat-cop-48](https://user-images.githubusercontent.com/88280966/128645434-d2425b02-779a-4007-915d-7a3f617e6e3c.png)
+
 
 
 
