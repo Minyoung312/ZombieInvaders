@@ -4,9 +4,9 @@ Welcome to my first Pygame. The objective of this game is to get rid of as many 
 
 
 
-<a target="_blank" href="https://icons8.com/icon/efW10Mdj2uRb/fat-cop">Fat Cop</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/efW10Mdj2uRb/fat-cop">Fat Cop</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> (48.png)
 
-<a target="_blank" href="https://icons8.com/icon/DnXieNb84YFJ/zombie">Zombie</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/DnXieNb84YFJ/zombie">Zombie</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> (
 
 
 <a target="_blank" href="https://icons8.com/icon/FEAnqKEGdXgO/zombie">Zombie</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
@@ -15,6 +15,7 @@ Welcome to my first Pygame. The objective of this game is to get rid of as many 
 <a target="_blank" href="https://icons8.com/icon/81685/small-axe">Small Axe</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 
+Background:
 https://www.freepik.com/free-photo/composition-with-tombstones-hill_2816936.htm#page=1&query=graveyard&position=10
 
 Enjoy!
