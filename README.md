@@ -16,7 +16,9 @@ Welcome to my first Pygame. The objective of this game is to get rid of as many 
 
 
 Background:
-https://www.freepik.com/free-photo/composition-with-tombstones-hill_2816936.htm#page=1&query=graveyard&position=10 
+https://www.freepik.com/free-photo/composition-with-tombstones-hill_2816936.htm#page=1&query=graveyard&position=10 (Small, 1000 x 667) 
+
+Please download the following images at the indicated format and pixel, or dimensions, and copy and paste it into the project file. If you do not do so, the program will not run. 
 
 Enjoy!
 
