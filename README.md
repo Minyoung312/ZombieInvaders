@@ -15,6 +15,7 @@ Welcome to my first Pygame. The objective of this game is to get rid of as many 
 <a target="_blank" href="https://icons8.com/icon/81685/small-axe">Small Axe</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 
-<a href='https://www.freepik.com/photos/background'>Background photo created by freepik - www.freepik.com</a>
+https://www.freepik.com/free-photo/composition-with-tombstones-hill_2816936.htm#page=1&query=graveyard&position=10
 
 Enjoy!
+
